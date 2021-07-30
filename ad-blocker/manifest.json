@@ -1,0 +1,15 @@
+{
+  "name": "My AdBlocker",
+  "version": "1.0.0",
+  "description": "Jelly's first extension!",
+  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "16": "icons/extension_icon16.png",
+    "48": "icons/extension_icon48.png",
+    "128": "icons/extension_icon128.png"
+  },
+  "manifest_version": 2
+}

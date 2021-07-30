@@ -1,3 +1,8 @@
-# chrome-extenstion-examples
+## chrome-extenstion-examples
 
-#### I. [Create a manifest file](#question1)
+### I. First Ad Blocker extension
+
+References:
+
+- chrome ext - getting started: https://developer.chrome.com/docs/extensions/mv2/getstarted/
+- chrome.webRequest: https://developer.chrome.com/docs/extensions/reference/webRequest/
